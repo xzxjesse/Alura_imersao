@@ -1,6 +1,5 @@
 # Imersão Front-End
 
-Breve Descrição: 
 Este repositório é dedicado à Imersão Front-End, um curso dinâmico oferecido pela Alura, projetado para aprimorar suas habilidades em HTML, CSS, JavaScript, React e Angular. Aqui, você encontrará códigos, recursos e materiais relacionados a cada aula. #ImersãoFrontEnd #Alura
 
 ## Sobre o Curso
